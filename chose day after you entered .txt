@@ -1,0 +1,2 @@
+Alexandria|Aswan|11:00|11:15|MS0050|thr
+Alexandria|Aswan|11:00|11:14|MS005|thr

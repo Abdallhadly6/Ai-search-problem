@@ -1,0 +1,3 @@
+Alexandria|Aswan|12:50|14:50|MS002|sat,mon,thu,fri
+Alexandria|Cairo|12:30|12:50|MS001|sat,sun
+Cairo|Aswan|1:00|1:40|MS018|wed,thu,fri

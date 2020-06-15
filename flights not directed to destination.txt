@@ -1,0 +1,3 @@
+Alexandria|Cairo|17:00|17:45|MS002|sat,mon,thu,fri
+Alexandria|Cairo|12:30|13:15|MS001|sat,sun
+Cairo|Paris|5:00|9:55|MS019|sat,mon
